@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ssanudin
 - 👀 I’m a full-stack engineer based in Indonesia passionate about helping entrepreneurs to create great products.
-<!---- 🌱 I’m currently learning --->
+- 🌱 I’m currently improving my front end skills
 <!---- 💞️ I’m looking to collaborate on ... --->
-- 📫 You can reach me on <a href="https://twitter.com/__sanudin" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/sanudin/" target="_blank">LinkedIn</a> and you can send message to <a href="mailto:mailto.sanudin@gmail.com">mailto.sanudin@gmail.com</a>
+- 📫 You can reach me on [Twitter](https://twitter.com/__sanudin) or [LinkedIn](https://www.linkedin.com/in/sanudin/) and you can send message to [mailto.sanudin@gmail.com](mailto:mailto.sanudin@gmail.com")
 
 <!---
 ssanudin/ssanudin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
