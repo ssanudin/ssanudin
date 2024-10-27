@@ -3,8 +3,7 @@
 - ⚡ I'm a front-end enthusiast
 - 🌱 Currently, I’m honing my skills in design, and problem-solving
 
-- 📫 You can reach me on [x.com/__sanudin](https://x.com/__sanudin) or [My LinkedIn](https://www.linkedin.com/in/sanudin/) and you can send message to [My Email](mailto:mailto.sanudin@gmail.com")
-
+- 📫 You can reach me on [x.com/__sanudin](https://x.com/__sanudin) or [My LinkedIn](https://www.linkedin.com/in/sanudin/)
 ## Tech Stack
 <p align="left">
 <a href="https://github.com/ssanudin">
