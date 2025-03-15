@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m [@ssanudin](https://github.com/ssanudin)
-- 👀 I’m a software engineer based in Indonesia passionate about helping entrepreneurs to create great products.
+- 👀 I’m a software engineer, developer, and lifelong learner based in Indonesia. I'm passionate about helping entrepreneurs create great products.
 - ⚡ I'm a front-end enthusiast
-- 🌱 Currently, I’m honing my skills in design, and problem-solving
+- 🌱 Currently, I’m honing my skills in design and problem-solving
 
 - 📫 You can reach me on [x.com/__sanudin](https://x.com/__sanudin) or [My LinkedIn](https://www.linkedin.com/in/sanudin/)
 ## Tech Stack
